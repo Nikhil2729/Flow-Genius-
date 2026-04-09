@@ -1,0 +1,5 @@
+{
+  "name": "FlowGenius",
+  "description": "Professional AI-powered flowchart generator web application. Convert text descriptions, Python code, and uploaded files into visual flowcharts.",
+  "requestFramePermissions": []
+}
